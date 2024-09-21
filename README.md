@@ -40,7 +40,7 @@ Open index.html in your web browser to view the project.
 
 ## Usage
 
-You can view the live demo of this project at: https://stamatiskamisakis.github.io/Colmar-Academy/ .
+You can view the live demo of this project at:  https://stamatiskamisakis.github.io/Colmar-Academy/
 
 ## Contributing
 
