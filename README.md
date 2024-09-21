@@ -21,15 +21,18 @@ The Colmar Academy project aims to create a visually appealing and functional la
 
 ## Features
 
-Responsive design that adapts to various screen sizes.
-Clean and organized code structure for maintainability.
-Interactive elements that enhance user engagement.
+- Responsive design that adapts to various screen sizes.
+- Clean and organized code structure for maintainability.
+- Interactive elements that enhance user engagement.
 
 ## Installation
 
 To run this project locally, follow these steps:
+
 Clone the repository:
+
 bash
+
 git clone https://github.com/yourusername/colmaracademy.git
 
 Navigate to the project directory:
